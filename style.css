@@ -1,0 +1,51 @@
+body{
+    
+  background-image: url('img/graos-de-cafe2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+  
+}
+
+header{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-size:30px;
+  font: weight 100px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+}
+
+h2{
+  font-size: large;
+  background-color: rgb(83, 49, 49);
+  color: rgba(255, 128, 0, 0.911);
+  text-align: center;
+  margin: auto;
+ 
+}
+
+.opções{
+  width: 1200px;
+  position:sticky;
+  margin: 0 0;
+  color: rgb(255, 174, 0);
+}
+
+.produtos{
+  width: 150px;
+  height: 100px;
+  margin:3%;
+  padding:5%;
+  list-style:decimal;
+  position:static;
+  
+  
+}
+.caixa{
+    text-align:justify;
+    border: 3px solid green;
+  }
+
